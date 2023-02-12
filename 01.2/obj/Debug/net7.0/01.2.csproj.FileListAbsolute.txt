@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\С#_Практика\01.2\bin\Debug\net7.0\01.2.exe
+C:\Users\Георгий\Documents\С#_Практика\01.2\bin\Debug\net7.0\01.2.deps.json
+C:\Users\Георгий\Documents\С#_Практика\01.2\bin\Debug\net7.0\01.2.runtimeconfig.json
+C:\Users\Георгий\Documents\С#_Практика\01.2\bin\Debug\net7.0\01.2.dll
+C:\Users\Георгий\Documents\С#_Практика\01.2\bin\Debug\net7.0\01.2.pdb
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.AssemblyInfo.cs
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.dll
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\refint\01.2.dll
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.pdb
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\01.2.genruntimeconfig.cache
+C:\Users\Георгий\Documents\С#_Практика\01.2\obj\Debug\net7.0\ref\01.2.dll
