@@ -13,7 +13,8 @@ int diff = number1%number2;
 if (diff == 0)
     Console.WriteLine("Число кратно 5");
 else 
-{    num = diff%5;
-    Console.WriteLine(num);
+{    
+    num = diff%5;
+    Console.WriteLine($"Число не кратно, остаток - {num}");
 }
 
