@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork\\15\\15.csproj": {}
+    "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork2\\15\\15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork\\15\\15.csproj": {
+    "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork2\\15\\15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork\\15\\15.csproj",
+        "projectUniqueName": "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork2\\15\\15.csproj",
         "projectName": "15",
-        "projectPath": "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork\\15\\15.csproj",
+        "projectPath": "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork2\\15\\15.csproj",
         "packagesPath": "C:\\Users\\Георгий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork\\15\\obj\\",
+        "outputPath": "C:\\Users\\Георгий\\Documents\\С#_Практика\\HomeWork2\\15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Георгий\\AppData\\Roaming\\NuGet\\NuGet.Config"
