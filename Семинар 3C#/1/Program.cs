@@ -14,6 +14,6 @@ else if (number == 3)
 }
 else if (number == 4)
 {
-    Console.WriteLine1("x>0  y<0");
+    Console.WriteLine("x>0  y<0");
 }
 
