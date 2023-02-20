@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.AssemblyInfo.cs
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\bin\Debug\net7.0\23.exe
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\bin\Debug\net7.0\23.deps.json
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\bin\Debug\net7.0\23.runtimeconfig.json
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\bin\Debug\net7.0\23.dll
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\bin\Debug\net7.0\23.pdb
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.dll
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\refint\23.dll
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.pdb
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\23.genruntimeconfig.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork3\23\obj\Debug\net7.0\ref\23.dll
