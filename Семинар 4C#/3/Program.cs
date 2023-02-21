@@ -7,6 +7,9 @@ int Get_Factorial(int n)
     for (int i = 1; i <= n; i++)
     result*= i;
     return result;
+
+   // if (n<= -1)
+    //result*= i
 }
 Console.Clear();
 Console.Write("Введите число: ");
