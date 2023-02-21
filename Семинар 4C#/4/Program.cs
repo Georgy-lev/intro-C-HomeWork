@@ -9,7 +9,7 @@ int[] arr_a(int length_arr){
     int[] arr = new int[length_arr];
     for(int i = 0; i < arr.Length; i ++){
     arr[i] =  new Random().Next(2);
-    Console.Write($"{arr[i]}, ");
+    Console.Write($"{arr[i]} ");
 }
     return arr;
 }
