@@ -9,4 +9,4 @@ while (n>0)
     n=n/10;
 }
 
-Console.WriteLine($"Сумма цифр числа {n} равна {sum}");
+Console.WriteLine($"Сумма цифр числа равна {sum}");
