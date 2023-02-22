@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿//Напишите цикл, который принимает на вход (А и В) и возводит число А в степень В
+Console.Clear();
 Console.Write("A: ");
 double A = double.Parse(Console.ReadLine()!);
 Console.Write("B: ");
