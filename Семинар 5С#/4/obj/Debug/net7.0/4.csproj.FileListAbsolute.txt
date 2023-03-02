@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.AssemblyInfo.cs
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\bin\Debug\net7.0\4.exe
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\bin\Debug\net7.0\4.deps.json
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\bin\Debug\net7.0\4.runtimeconfig.json
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\bin\Debug\net7.0\4.dll
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\bin\Debug\net7.0\4.pdb
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.dll
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\refint\4.dll
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.pdb
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\4.genruntimeconfig.cache
+C:\Users\Георгий\Documents\С#_Практика\Семинар 5С#\4\obj\Debug\net7.0\ref\4.dll
