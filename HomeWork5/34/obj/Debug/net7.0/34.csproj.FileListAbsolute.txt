@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\bin\Debug\net7.0\34.exe
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\bin\Debug\net7.0\34.deps.json
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\bin\Debug\net7.0\34.runtimeconfig.json
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\bin\Debug\net7.0\34.dll
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\bin\Debug\net7.0\34.pdb
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.AssemblyInfo.cs
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.dll
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\refint\34.dll
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.pdb
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\34.genruntimeconfig.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork5\34\obj\Debug\net7.0\ref\34.dll
