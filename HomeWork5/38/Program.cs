@@ -3,7 +3,7 @@ Console.Clear();
 int [] startArray = GetArray(4, 100, 999);
 
 int sum = GetMaxElements(startArray) + GetMinElements(startArray);
-Console.WriteLine($"Сумма max и min элементов массива  = {sum}");
+Console.WriteLine($"Сумма max и min элементов массива  = " +sum);
 
 int [] GetArray(int size, int minValue, int maxValue)
 {
@@ -18,16 +18,16 @@ int [] GetArray(int size, int minValue, int maxValue)
 int GetMaxElements(int[] array)
 {
     int max = 0;   
-        for (int i =0; i<array.Length; i++)
-            if (array[i]>max)
-            array[i]=max; 
-        return max;
+    for (int i =0; i<array.Length; i++)
+        if (array[i]>max)
+            max=array[i]; 
+    return max;
 }
 int GetMinElements(int[] array)
 {
     int min = 0;   
-        for (int i =0; i<array.Length; i++)
-            if (array[i]<min)
-            array[i]=min; 
+    for (int i =0; i<array.Length; i++)
+        if (array[i]<min)
+            min=array[i]; 
     return min;
 }
