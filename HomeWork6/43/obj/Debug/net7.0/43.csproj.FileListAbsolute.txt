@@ -1,0 +1,5 @@
+C:\Users\Георгий\Documents\С#_Практика\HomeWork6\43\obj\Debug\net7.0\43.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork6\43\obj\Debug\net7.0\43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\С#_Практика\HomeWork6\43\obj\Debug\net7.0\43.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\С#_Практика\HomeWork6\43\obj\Debug\net7.0\43.AssemblyInfo.cs
+C:\Users\Георгий\Documents\С#_Практика\HomeWork6\43\obj\Debug\net7.0\43.csproj.CoreCompileInputs.cache
