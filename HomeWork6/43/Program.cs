@@ -36,7 +36,7 @@ double [] InputLineDate(int numberOfLine)
 double[] FindCoords(double[] lineData1, double [] lineData2)
 {
     double [] coord = new double[2];
-    coord[X_COORD] = (lineData1[CONSTANT] - lineData2[CONSTANT]) / (lineData2[COEFFICIENT] - lineData1[CONSTANT] * coord[X_COORD] + lineData1{CONSTANT};)
+    coord[X_COORD] = (lineData1[CONSTANT] - lineData2[CONSTANT]) / (lineData2[COEFFICIENT] - lineData1[CONSTANT] * coord[X_COORD] + lineData1[CONSTANT]);
     return coord;
 }
 bool ValidateLines(double[] lineData1, double[] lineData2)
